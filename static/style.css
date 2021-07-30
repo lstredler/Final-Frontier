@@ -1,0 +1,26 @@
+/* Mainpage */
+body{
+  background-color: #d7ead9;
+}
+
+.header {
+  background-color: #b2da63;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Style page content */
+.navbar{
+  max-height: 50px;
+  background-color: aquamarine;
+}
+
+img{
+  width:100% !important;
+  height:100% !important;
+}
+
+.vizualization{
+  width:50% !important;
+  height:50% !important;
+}
